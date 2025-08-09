@@ -38,4 +38,4 @@ git clone https://github.com/erickdumi74/netsouls.git
 cd netsouls
 
 # Run it
-python run.py
+python main.py
