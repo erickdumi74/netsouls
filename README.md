@@ -38,6 +38,7 @@ git clone https://github.com/erickdumi74/netsouls.git
 cd netsouls
 
 # Run it
+python -m pip install windows-curses #if on windows and its first time playing
 python main.py
 ```
 ### Direction, Combat and Items
