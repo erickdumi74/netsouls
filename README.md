@@ -75,5 +75,3 @@ _(You can switch gear mid‑fight.)_
 - Read the HUD: enemy bars and cues matter.
 
 **Need a refresher in‑game?** Press `?` for the help panel.
-
-
