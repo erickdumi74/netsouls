@@ -39,3 +39,40 @@ cd netsouls
 
 # Run it
 python main.py
+```
+### Direction, Combat and Items
+
+**Movement**
+- `i` = Up
+- `k` = Down
+- `j` = Left
+- `l` = Right  
+_(You cannot move into occupied tiles.)_
+
+**Combat**
+- `e` = Attack Up
+- `d` = Attack Down
+- `s` = Attack Left
+- `f` = Attack Right
+
+**Shields**
+- `Space` then one of `e/d/s/f` = Raise or lower shield in that direction  
+  _(Press Space first to arm the shield, then a direction key. Shields interact with weapon timing and stamina.)_
+
+**Gear Switching**
+- `r` = Switch weapon
+- `w` = Switch shield
+- `g` = Switch armor  
+_(You can switch gear mid‑fight.)_
+
+**Death & Respawn**
+- `Esc` = Respawn (only when dead)
+
+**Tips**
+- Stamina matters: attacks and defenses may delay regen.
+- Positioning > face‑tank: avoid standing where the enemy’s next arc will land.
+- Read the HUD: enemy bars and cues matter.
+
+**Need a refresher in‑game?** Press `?` for the help panel.
+
+
