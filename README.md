@@ -19,9 +19,7 @@ See the [LICENSE](LICENSE) file for full terms.
 ---
 
 ## 📜 Lore Snapshot
-In the Starchborn Age, **Echoes** are memory made real — currency, power, and life itself.  
-You are **Sir Atarms**, the Potato Knight, roaming shifting realms where death is a lesson and every return leaves a scar.  
-Some chase the **First Thread** to master the Netsouls. You just aim to endure.
+In the Starchborn Age, **Echoes** are memory made real — currency, power, and life itself. You are **Sir Atarms**, the Potato Knight, roaming shifting realms where death is a lesson and every return leaves a scar. Some chase the **First Thread** to master the Netsouls. You just aim to endure.
 
 ---
 
